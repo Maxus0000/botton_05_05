@@ -1,0 +1,12 @@
+.btn{
+display: inline-block;
+min-width: 100px;
+max-width: 120px;
+
+white-space: nowrap;
+overflow: hidden;
+text-overflow: ellipsis;
+
+font-size: 1.2em;
+text-transform: uppercase;
+}
